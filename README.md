@@ -1,7 +1,7 @@
 <h1>Jogo do Número Secreto</h1>
 
 <h2>📋 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Git e GitHub da trilha de formação "A partir do zero: Iniciante em Programação" da Alura.</p>
+<p>Projeto desenvolvido durante o curso de Git e GitHub da trilha de formação "A partir do zero Iniciante em Programação da Alura".</p>
 
 ## 🚀 Tecnologias
 <div>
